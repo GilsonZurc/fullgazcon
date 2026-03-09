@@ -5,7 +5,7 @@ import nextPWA from "next-pwa";
 const nextConfig = {
   reactStrictMode: true,
   experimental: {
-    appDir: true, // Nota: Se você estiver usando o Next.js 13.4 ou superior, o appDir já é o padrão e essa linha pode ser removida.
+    appDir: true,
   },
 };
 
